@@ -1,0 +1,15 @@
+.col-1-4{
+    float: left;
+    width: 25%;
+    box-sizing: border-box; 
+    min-height: 150px;
+}
+.col-3-4{
+    float: left;
+    width: 75%;
+    box-sizing: border-box;
+    min-height: 150px;
+}
+.border{
+    border: 1px solid red;
+}
