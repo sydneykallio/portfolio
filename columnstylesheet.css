@@ -2,13 +2,13 @@
     float: left;
     width: 25%;
     box-sizing: border-box; 
-    min-height: 30px;
+    min-height: 50px;
 }
 .col-3-4{
     float: left;
     width: 75%;
     box-sizing: border-box;
-    min-height: 30px;
+    min-height: 50px;
 }
 .border{
     border: 1px grey;
